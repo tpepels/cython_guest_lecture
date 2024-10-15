@@ -1,0 +1,6 @@
+/.venv
+/.vscode
+/build
+/cy_sum_of_squares.cpython-312-darwin.so
+/dot_product.cpython-312-darwin.so
+/py_sum_of_squares.cpython-312-darwin.so
